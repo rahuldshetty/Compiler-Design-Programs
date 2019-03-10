@@ -1,0 +1,12 @@
+#includE<stdio.h>
+int main(){
+	
+	 hello		thisisates
+ okay 
+
+ ok
+
+pritnf("gg"); 
+
+
+}

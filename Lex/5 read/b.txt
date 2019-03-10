@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+
+	writef("Hello world");
+	ok++;
+	readf("World");
+	writef();
+
+
+}

@@ -1,0 +1,17 @@
+#includE<stdio.h>
+int main(){
+	// this is a line
+	/* hello
+		this
+is
+a
+tes*/
+/* okay */
+
+/* ok
+*/
+
+pritnf("gg"); //
+
+
+}
